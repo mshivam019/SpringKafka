@@ -15,6 +15,7 @@
     <description>SpringKafka</description>
     <modules>
         <module>kafka-producer-wikimedia</module>
+        <module>kafka-consumer-db</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
